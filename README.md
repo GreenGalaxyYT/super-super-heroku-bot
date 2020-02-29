@@ -1,2 +1,2 @@
-# Discord bot yeye very epic and cool xd lol
+# super-super-heroku-bot
 Bot using heroku
